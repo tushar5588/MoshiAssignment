@@ -1411,7 +1411,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.landing-page-front-developer {
+.landing-page {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
@@ -1424,4 +1424,9 @@
 }
 .pointer{
   cursor: pointer;
+}
+@media (max-width: 600px) {
+ .landing-page{
+  width: 100%;
+ }
 }

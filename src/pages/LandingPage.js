@@ -2,7 +2,7 @@ import "../styles/LandingPage.css";
 
 const LandingPage = () => {
   return (
-    <div className="landing-page-front-developer">
+    <div className="landing-page">
       <img className="landing-page-child" alt="" src="/rectangle-93.svg" />
       <img className="landing-page-item" alt="" src="/vector-24.svg" />
       <img className="landing-page-inner" alt="" src="/ellipse-10.svg" />
